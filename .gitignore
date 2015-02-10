@@ -51,6 +51,10 @@ Temporary Items
 .apdisk
 23.235.47.133
 
+# Images
+/phone-icons*
+*/phone-icons*
+*phone-icons*
 
 # WordPress and Directories files
 /blogs.dir
